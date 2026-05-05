@@ -1,3 +1,41 @@
+# Olá, eu sou o [Seu Nome]! 👋
+
+### 🚀 Aspirante a Analista de QA / Testador de Software
+Sou um entusiasta da tecnologia com um olhar atento aos detalhes e uma paixão por garantir a melhor experiência possível para o utilizador final. Atualmente, estou focado em transitar para a área de Quality Assurance, onde posso aplicar a minha capacidade analítica para encontrar bugs e melhorar processos.
+
+---
+
+### 🛠️ O meu Toolkit de QA
+- **Testes Manuais:** Testes Funcionais, Regressão, Exploratórios, Smoke Testing.
+- **Ferramentas de Gestão:** Jira, Trello, Azure DevOps.
+- **Testes de API:** Postman, Insomnia.
+- **Automação (em aprendizagem):** Cypress, Selenium, JavaScript.
+- **Metodologias:** Agile (Scrum/Kanban).
+- **Outros:** SQL básico, Git/GitHub, Chrome DevTools.
+
+---
+
+### 📂 Projetos em Destaque
+- **[Projeto 1 - Nome]:** Planeamento e execução de testes para um e-commerce fictício. [Link para o Repo]
+- **[Projeto 2 - Nome]:** Automação de testes de login utilizando Cypress. [Link para o Repo]
+
+---
+
+### 🎓 Certificações & Cursos
+- **Certificação ISTQB Foundation Level** (Em preparação/Concluído)
+- **Curso de QA e Testes de Software** - [Nome da Instituição/Plataforma]
+- **Testes de API com Postman** - [Nome da Instituição/Plataforma]
+
+---
+
+### 📫 Vamos conectar?
+- **LinkedIn:** [Link para o seu LinkedIn]
+- **Email:** [Seu Email]
+
+---
+*"Qualidade não é um ato, é um hábito."*
+
+
 # 🧪 Projeto de Testes: [Urban routes/Urban Scooter]
 
 ## 📝 Descrição do Projeto
@@ -55,7 +93,7 @@ SQL (Bancos de Dados): Essencial para verificar se os dados que inseriu no site 
 ## Contatos
 
 <div align="left">
-  <a href="https://github.com/SEU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://https://github.com/ramiropinamendes4-design/ramiropinamendes4-design/edit/main/README.md" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/ramirodepina" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="ramiropinamendes4@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://https://www.instagram.com/rpinamendes/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
