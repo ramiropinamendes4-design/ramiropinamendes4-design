@@ -19,6 +19,49 @@ https://docs.google.com/spreadsheets/d/16sIOfYtBh3qUB3fHKVmfDe5oHXj_zrjFQupwLBkV
 https://docs.google.com/spreadsheets/d/1lLYfknwtKBljIyboNgYf9f7DrmntkUx0/edit?gid=222111639#gid=222111639
 https://docs.google.com/spreadsheets/d/1cCNk7B9vHBJI1I_qn-UA56g4AfBQMKi9HdjPUUqtmzQ/edit?gid=287334773#gid=2873347739
 
-## 🚀 Como visualizar este projeto
-1. Explore as pastas `/docs` para ver os planos de teste.
-2. Veja as issues deste repositório para exemplos de reporte de bugs.
+## 🚀 Tecnologia & ferramentas
+Gestão e Planeamento (Onde o trabalho começa)
+Estas ferramentas são usadas para organizar tarefas, escrever casos de teste e reportar bugs.
+Categoria
+Ferramenta
+Para que serve?
+Gestão de Projetos
+Jira
+A ferramenta padrão do mercado para metodologias Ágeis (Scrum/Kanban).
+Criação de documentação técnica e acompanhamento de tarefas simples.
+2. Testes de API (Onde a lógica é testada)
+Muitos bugs estão "escondidos" na comunicação entre sistemas, antes mesmo de chegar à parte visual.
+Postman: A ferramenta mais essencial para testar requisições (GET, POST, etc.) e validar respostas JSON.
+Insomnia: Uma alternativa excelente e mais leve ao Postman.
+Swagger: Usado para ler a documentação da API que os programadores criam.
+3. Testes Web e Mobile (Onde o utilizador interage)
+Chrome DevTools: Fica dentro do seu navegador (F12). Essencial para inspecionar elementos, ver erros no "Console" e analisar o tráfego de rede (Network).
+BrowserStack / Sauce Labs: Permitem testar o seu site em centenas de dispositivos e navegadores diferentes sem precisar de os comprar.
+4. Automação de Testes (O próximo nível)
+Para quem quer deixar de fazer tudo manualmente e criar scripts que testam sozinhos.
+Frameworks:
+Cypress: Muito popular atualmente por ser fácil de aprender e rápido.
+Selenium: O "clássico" do mercado, suporta várias linguagens.
+Playwright: A nova tendência, criada pela Microsoft, muito poderosa e rápida.
+Linguagens de Programação:
+Python: Excelente para iniciantes pela sintaxe simples.
+5. Ferramentas de Suporte (Essenciais para qualquer técnico)
+Git & GitHub: Para guardar o seu código e colaborar com a equipa.
+SQL (Bancos de Dados): Essencial para verificar se os dados que inseriu no site foram guardados corretamente na base de dados.
+ MySQL Workbench: Ferramentas visuais para aceder às bases de dados.
+
+ Contactos
+ ## Contatos
+## Contatos
+
+<div align="left">
+  <a href="https://github.com/SEU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/ramirodepina" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="ramiropinamendes4@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://https://www.instagram.com/rpinamendes/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</div>
+
+
+ 
+
+
