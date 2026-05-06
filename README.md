@@ -17,7 +17,7 @@ Sou um entusiasta da tecnologia com um olhar atento aos detalhes e uma paixão p
 
 ### 📂 Projetos em Destaque
 - **[Projecto final do curso]:** Planeamento e execução de testes para um e-commerce fictício. https://docs.google.com/spreadsheets/d/1NQB9zSszIDI9EtDXxqIHmXB2OFwfeow-6CudNrmLydw/edit?gid=0#gid=0
-- **[Teste de API]:** Automação de testes de login utilizando Cypress. [Link para o Repo]
+- **[Teste Automatizado]:** Automação de testes de validação dos campos de um aplicativo de pedido de taxi utilizando selenium. [https://github.com/ramiropinamendes4-design/QA-Brazil_Python_Automation/blob/main/main.py]
 
 ---
 
