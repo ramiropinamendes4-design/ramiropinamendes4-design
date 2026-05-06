@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou o [Ramiro De Pina]! 👋
 
 ### 🚀 Aspirante a Analista de QA / Testador de Software
 Sou um entusiasta da tecnologia com um olhar atento aos detalhes e uma paixão por garantir a melhor experiência possível para o utilizador final. Atualmente, estou focado em transitar para a área de Quality Assurance, onde posso aplicar a minha capacidade analítica para encontrar bugs e melhorar processos.
@@ -7,30 +7,30 @@ Sou um entusiasta da tecnologia com um olhar atento aos detalhes e uma paixão p
 
 ### 🛠️ O meu Toolkit de QA
 - **Testes Manuais:** Testes Funcionais, Regressão, Exploratórios, Smoke Testing.
-- **Ferramentas de Gestão:** Jira, Trello, Azure DevOps.
-- **Testes de API:** Postman, Insomnia.
-- **Automação (em aprendizagem):** Cypress, Selenium, JavaScript.
+- **Ferramentas de Gestão:** Jira
+- **Testes de API:** Postman.
+- **Automação (em aprendizagem):** Cypress, Selenium, Python.
 - **Metodologias:** Agile (Scrum/Kanban).
 - **Outros:** SQL básico, Git/GitHub, Chrome DevTools.
 
 ---
 
 ### 📂 Projetos em Destaque
-- **[Projeto 1 - Nome]:** Planeamento e execução de testes para um e-commerce fictício. [Link para o Repo]
-- **[Projeto 2 - Nome]:** Automação de testes de login utilizando Cypress. [Link para o Repo]
+- **[Projecto final do curso]:** Planeamento e execução de testes para um e-commerce fictício. https://docs.google.com/spreadsheets/d/1NQB9zSszIDI9EtDXxqIHmXB2OFwfeow-6CudNrmLydw/edit?gid=0#gid=0
+- **[Teste de API]:** Automação de testes de login utilizando Cypress. [Link para o Repo]
 
 ---
 
 ### 🎓 Certificações & Cursos
-- **Certificação ISTQB Foundation Level** (Em preparação/Concluído)
-- **Curso de QA e Testes de Software** - [Nome da Instituição/Plataforma]
-- **Testes de API com Postman** - [Nome da Instituição/Plataforma]
+- **Certificação ISTQB Foundation Level** (Concluído)
+- **Curso de QA e Testes de Software** - Tripleten
+- **Testes de API com Postman** - Tripleten
 
 ---
 
 ### 📫 Vamos conectar?
-- **LinkedIn:** [Link para o seu LinkedIn]
-- **Email:** [Seu Email]
+- **LinkedIn:** www.linkedin.com/in/ramirodepina
+- **Email:** ramiropinamendes4@gmail.com
 
 ---
 *"Qualidade não é um ato, é um hábito."*
