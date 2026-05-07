@@ -89,7 +89,6 @@ SQL (Bancos de Dados): Essencial para verificar se os dados que inseriu no site 
  MySQL Workbench: Ferramentas visuais para aceder às bases de dados.
 
  Contactos
- ## Contatos
 ## Contatos
 
 <div align="left">
