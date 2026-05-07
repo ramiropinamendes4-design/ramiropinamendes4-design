@@ -1,4 +1,4 @@
-# Olá, eu sou o [Ramiro De Pina]! 👋
+# Olá, eu sou o Ramiro De Pina 👋
 
 ### 🚀 Aspirante a Analista de QA / Testador de Software
 Sou um entusiasta da tecnologia com um olhar atento aos detalhes e uma paixão por garantir a melhor experiência possível para o utilizador final. Atualmente, estou focado em transitar para a área de Quality Assurance, onde posso aplicar a minha capacidade analítica para encontrar bugs e melhorar processos.
