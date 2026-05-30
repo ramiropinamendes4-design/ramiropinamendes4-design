@@ -39,7 +39,7 @@ Sou um entusiasta da tecnologia com um olhar atento aos detalhes e uma paixão p
 # 🧪 Projeto de Testes: [Urban routes/Urban Scooter]
 
 ## 📝 Descrição do Projeto
-Este projeto consiste na estratégia e execução de testes para a aplicação **[Urban routes]**, uma plataforma de reserva e pedido de taxi. O objetivo foi garantir a estabilidade das funcionalidades críticas e documentar o processo de QA.
+Este projeto simula o papel de um Engenheiro de Qualidade (QA) Junior numa equipa de desenvolvimento ágil, focado na garantia de qualidade. O objetivo principal foi assegurar a funcionalidade, usabilidade, desempenho e segurança da aplicação, desde a navegação do utilizador até à finalização. Este projeto demonstra a aplicação de metodologias de teste, ferramentas e técnicas essenciais para um QA Junior.
 
 ## 🎯 Abordagem de Testes
 1. **Análise de Requisitos:** Identificação de cenários críticos.
