@@ -39,7 +39,7 @@ Sou um entusiasta da tecnologia com um olhar atento aos detalhes e uma paixão p
 # 🧪 Projeto de Testes: [Urban routes/Urban Scooter]
 
 ## 📝 Descrição do Projeto
-Este projeto simula o papel de um Engenheiro de Qualidade (QA) Junior numa equipa de desenvolvimento ágil, focado na garantia de qualidade. O objetivo principal foi assegurar a funcionalidade, usabilidade, desempenho e segurança da aplicação, desde a navegação do utilizador até à finalização. Este projeto demonstra a aplicação de metodologias de teste, ferramentas e técnicas essenciais para um QA Junior.
+Este projeto demonstra a aplicação de princípios e práticas de Garantia de Qualidade (QA) num ambiente de desenvolvimento de software. O objetivo principal é assegurar a qualidade, funcionalidade e robustez de uma aplicação [mencionar o tipo de aplicação, ex: web, mobile, API] através de uma série de testes abrangentes. Este repositório serve como um portfólio para as minhas competências como Junior QA, destacando a minha capacidade de identificar, documentar e reportar defeitos, bem como de contribuir para a melhoria contínua do processo de desenvolvimento.
 
 ## 🎯 Abordagem de Testes
 1. **Análise de Requisitos:** Identificação de cenários críticos.
