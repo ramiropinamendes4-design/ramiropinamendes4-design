@@ -22,7 +22,6 @@ Sou um entusiasta da tecnologia com um olhar atento aos detalhes e uma paixão p
 ---
 
 ### 🎓 Certificações & Cursos
-- **Certificação ISTQB Foundation Level** (Concluído)
 - **Curso de QA e Testes de Software** - Tripleten
 - **Testes de API com Postman** - Tripleten
 
